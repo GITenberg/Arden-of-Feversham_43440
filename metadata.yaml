@@ -1,0 +1,36 @@
+_repo: Arden-of-Feversham_43440
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Kyd, Thomas
+    alias: Kid, Thomas
+    birthdate: 1558
+    deathdate: 1594
+    gutenberg_agent_id: '1919'
+    url: http://www.gutenberg.org/2009/agents/1919
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Kyd
+covers:
+- cover_type: archival
+  image_path: 43440-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Bayne, Ronald, Rev.
+    gutenberg_agent_id: '42211'
+    url: http://www.gutenberg.org/2009/agents/42211
+description: '"The author is unknown, and the play has been attributed to Thomas Kyd,
+  Christopher Marlowe, and William Shakespeare, solely or collaboratively[...]" --
+  From Wikipedia.'
+gutenberg_issued: '2013-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arden, Thomas, -1551 -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+title: Arden of Feversham
+url: http://www.gutenberg.org/ebooks/43440
