@@ -20,6 +20,8 @@ creator:
 description: '"The author is unknown, and the play has been attributed to Thomas Kyd,
   Christopher Marlowe, and William Shakespeare, solely or collaboratively[...]" --
   From Wikipedia.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43440#Arden-of-Feversham
 gutenberg_issued: '2013-08-11'
 gutenberg_type: Text
 identifiers:
